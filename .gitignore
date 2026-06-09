@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pyo
+.env
+
+# Data
+data/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.dist/
+.dist/
+
+# IDE
+.vscode/
+*.log
