@@ -14,3 +14,11 @@ langchain-openai
 langchain-community
 faiss-cpu
 apscheduler
+
+# DATABASE_URL=
+# GROQ_API_KEY=
+# SMTP_HOST=smtp.gmail.com
+# SMTP_PORT=587
+# SMTP_USER=your@gmail.com
+# SMTP_PASSWORD=your_app_password
+# SECRET_KEY=your_secret_key
